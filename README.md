@@ -1,5 +1,7 @@
 Glocash prestashop extension
 =================
 
-<h3>Getting Started</h3>
-This extension is for prestashop 1.6 and below
+<h3>Install</h3>
+-Go to "Modules" - "Add a new module"
+
+-choose your module ZIP file that you want to upload and click on the upload button
